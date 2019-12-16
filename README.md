@@ -7,6 +7,6 @@ The GPU memory cost of this code for training is much higher than the one mentio
 Please replace some key params in the script "param.cfg" and run the command "python main.py -c param.cfg" for training.
 
 ## SID-Sony results(5 frames)
-[res0(1.jpg)]
+![res0](https://github.com/DavidQiuChao/Attention-Mechanism-Enhanced-Kernel-Prediction-Network/blob/master/1.jpg)
 
-[res1(2.jpg)]
+![res1](https://github.com/DavidQiuChao/Attention-Mechanism-Enhanced-Kernel-Prediction-Network/blob/master/2.jpg)
